@@ -9,6 +9,7 @@ with extensions:
 - Prettier+
 
 From a commandprompt, in a map where to create the app, where <projectname> is the name of your project (without spaces etc):
+```
 npx create-react-app <projectname>
 cd <projectname>
 del yarn.lock
@@ -20,6 +21,7 @@ npm install moralis react-moralis react-router react-router-dom
 npm audit fix
 cd src
 del *
+```
 
 Clone (or use zip file) the js files from here (into src map)
   
