@@ -1,6 +1,8 @@
 # Empty React And Moralis app setup
 Quick start a react app with Moralis, includes Authentication, login, Signup and Basic Menu + Route
 
+Inspired by the Moralis Moralis video serie [React & Moralis Programming](https://www.youtube.com/playlist?list=PLFPZ8ai7J-iSbOoPePI9c_XCeZQLpOO2z), with only part 1 & 2 realized (see [Moralis Forum](https://forum.moralis.io/t/react-moralis-next-parts/1497/3?u=casnwk)).
+
 Editor used: Visual Studio Code
 with extensions:
 - Babel ES6/ES7
