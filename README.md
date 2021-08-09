@@ -8,7 +8,7 @@ with extensions:
 - Bracket Pair Colorizer --> (2)
 - Prettier+
 
-From a commandprompt, in a map where to create the app, where <projectname> is the name of your project (without spaces etc):
+From a commandprompt, in a map where to create the app, where `<projectname>` is the name of your project (without spaces etc):
 ```
 npx create-react-app <projectname>
 cd <projectname>
