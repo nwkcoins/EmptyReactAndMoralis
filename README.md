@@ -7,7 +7,7 @@ Editor used: Visual Studio Code
 with extensions:
 - Babel ES6/ES7
 - Babel Javascript
-- Bracket Pair Colorizer --> (2)
+- Bracket Pair Colorizer (2)
 - Prettier+
 
 From a commandprompt, in a map where to create the app, where `<projectname>` is the name of your project (without spaces etc):
